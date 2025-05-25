@@ -49,3 +49,15 @@ src/
 - Discount functionality is available for all products
 
 - Shipping status can be updated dynamically: PREPARING → SHIPPED → DELIVERED
+
+## ✅ Sample Output
+
+![image](https://github.com/user-attachments/assets/5efc0ed8-e0b6-48c5-8582-dee1bca0e5ab)
+
+![image](https://github.com/user-attachments/assets/ad930e79-af12-4c1c-a772-5ca4ec3ccfe9)
+
+![image](https://github.com/user-attachments/assets/d5b70bf9-0f3b-49b4-b3b7-8637ad70bcaa)
+
+![image](https://github.com/user-attachments/assets/53b4625d-cd55-437a-9ff8-54165f88e38f)
+
+![image](https://github.com/user-attachments/assets/f6b598a0-1b42-4782-874e-28e37aabf270)
