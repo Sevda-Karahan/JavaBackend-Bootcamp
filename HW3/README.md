@@ -48,3 +48,10 @@ This project is a simple **Mini Social Network Application** written in Java usi
 
 ## Console-Based Application
 This application is **console-based**. There is no GUI requirement. All interaction and output happen through the command line.
+
+---
+
+✅ Sample Output
+
+![image](https://github.com/user-attachments/assets/e9a6cf5a-1c52-41b6-963f-153dc5090b65)
+
