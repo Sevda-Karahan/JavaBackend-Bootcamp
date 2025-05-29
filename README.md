@@ -1,9 +1,5 @@
 # 🚀 Project List
 
-This repository contains a collection of beginner to intermediate-level software projects, each focusing on different core concepts to help improve programming skills.
-
----
-
 ## 1. 🎲 Number Guessing Game
 
 **Description:**  
