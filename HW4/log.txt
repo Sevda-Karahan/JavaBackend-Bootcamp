@@ -1,0 +1,5 @@
+2025-05-29 19:20:12 [INFO] kitaplar.txt oluşturuldu.
+2025-05-29 19:24:47 [INFO] Kitap eklendi: Simyacı
+2025-05-29 19:25:12 [INFO] Kitap eklendi: Suç ve Ceza
+2025-05-29 19:25:49 [INFO] Stok güncellendi: Suç ve Ceza => 3
+2025-05-29 19:26:21 [INFO] Kitap silindi: Simyacı
